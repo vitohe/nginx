@@ -9,9 +9,9 @@
 #define _NGINX_H_INCLUDED_
 
 
-#define nginx_version      1007002
-#define NGINX_VERSION      "1.7.2"
-#define NGINX_VER          "nginx/" NGINX_VERSION
+#define nginx_version      822626
+#define NGINX_VERSION      "8.22.626"
+#define NGINX_VER          "hebao/" NGINX_VERSION
 
 #ifdef NGX_BUILD
 #define NGINX_VER_BUILD    NGINX_VER " (" NGX_BUILD ")"
@@ -19,7 +19,7 @@
 #define NGINX_VER_BUILD    NGINX_VER
 #endif
 
-#define NGINX_VAR          "NGINX"
+#define NGINX_VAR          "HEBAO"
 #define NGX_OLDPID_EXT     ".oldbin"
 
 
