@@ -9,8 +9,8 @@
 #define _NGINX_H_INCLUDED_
 
 
-#define nginx_version      822626
-#define NGINX_VERSION      "8.22.626"
+#define nginx_version      8220711
+#define NGINX_VERSION      "8.22.0711"
 #define NGINX_VER          "hebao/" NGINX_VERSION
 
 #ifdef NGX_BUILD
